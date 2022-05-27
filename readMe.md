@@ -12,3 +12,5 @@
 
 ![alt text](https://github.com/IsaacZab/HangMan/blob/main/images/GameOVer.PNG)
 
+### Class Diagram
+
